@@ -1,49 +1,29 @@
-
 # Diego Santos
 
-Especialista em Banco de Dados | Desenvolvedor Python | Futuro Engenheiro de Machine Learning  
+Database Specialist | Python Developer | Future Machine Learning Engineer
 
 ---
 
-## Sobre mim
+## About me
 
-Sou formado em Banco de Dados, com especialização em Java e Python. Atualmente, estou em transição de carreira com foco em Desenvolvimento de Sistemas, Análise de Dados e Engenharia de Machine Learning.
+I have a degree in Database, with specialization in Java and Python. I am currently in a career transition with a focus on Systems Development, Data Analysis and Machine Learning Engineering.
 
-Apaixonado por tecnologia, dados e soluções inteligentes.
+I am passionate about technology, data and intelligent solutions.
 
-Busco oportunidades para aplicar e expandir meus conhecimentos em ambientes profissionais desafiadores.
-
----
-
-## Habilidades
-
-- Python | Flask | SQLite | Pandas | NumPy  
-- Banco de Dados | SQL | Modelagem de Dados  
-- Desenvolvimento Web | HTML | CSS | Bootstrap  
-- Machine Learning (em formação)  
-- Git | GitHub | Versionamento  
-- Análise e Manipulação de Dados  
-- Criação de Dashboards | Relatórios  
-- Automatização de Processos  
+I seek opportunities to apply and expand my knowledge in challenging professional environments.
 
 ---
 
-## Projetos Principais
+## Skills
 
-| Projeto | Descrição | Tecnologias |
-|---------|------------|-------------|
-| Luxury Wheels | Sistema de Gestão de Frotas completo. | Python, Flask, SQLite, Pandas, Bootstrap |
-| Gestor de Tarefas | Sistema simples de gerenciamento de tarefas. | Python, Flask, SQLite |
-| Gestor de Produtos | Sistema de cadastro e controle de produtos. | Python, Flask, SQLite |
-| Python Projects | Scripts úteis, automações e exercícios. | Python |
-| Data Science Studies | Estudos práticos de análise de dados e ML. | Python, Pandas, Matplotlib |
+- Python | Flask | SQLite | Pandas | NumPy
 
----
+- Database | SQL | Data Modeling
 
-## Contato
+- Web Development | HTML | CSS | Bootstrap
 
-- LinkedIn: [www.linkedin.com/in/diego-santos-9b20b732b](https://www.linkedin.com/in/diego-santos-9b20b732b)  
-- GitHub: [https://github.com/diegoscodes](https://github.com/diegoscodes)  
-- E-mail: sanirish40@gmail.com  
+- Machine Learning (in training)
 
----
+- Git | GitHub | Versioning
+
+- Data Analysis and Manipulation
