@@ -32,9 +32,7 @@
 
 </p>
 
-<p align="center">
-  Python &nbsp;&nbsp;|&nbsp;&nbsp; SQLite &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; Flask &nbsp;&nbsp;|&nbsp;&nbsp; HTML5 &nbsp;&nbsp;|&nbsp;&nbsp; CSS3 &nbsp;&nbsp;|&nbsp;&nbsp; GitHub
-</p>
+
 
 
 
