@@ -21,14 +21,19 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" style="filter: invert(1)"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="50"/>
 </p>
+
+<p align="center">
+  Python &nbsp;&nbsp;|&nbsp;&nbsp; SQLite &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; Flask &nbsp;&nbsp;|&nbsp;&nbsp; HTML5 &nbsp;&nbsp;|&nbsp;&nbsp; CSS3 &nbsp;&nbsp;|&nbsp;&nbsp; GitHub
+</p>
+
 
 <p align="center">
   Python &nbsp;&nbsp;|&nbsp;&nbsp; SQLite &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; Flask &nbsp;&nbsp;|&nbsp;&nbsp; HTML5 &nbsp;&nbsp;|&nbsp;&nbsp; CSS3 &nbsp;&nbsp;|&nbsp;&nbsp; GitHub
