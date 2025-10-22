@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Diego Santos 👋</h2>
 
 <p align="center">
-  Junior Python Developer | Passionate about Data, Automation & AI
+  Software engineer | Passionate about Data, Machine learning & AI
 </p>
 
 ---
