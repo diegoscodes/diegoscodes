@@ -59,6 +59,9 @@ Machine Learning & AI: Continuously expanding my expertise in intelligent system
 
 ## 🏆 Featured Projects
 
+- ⚖️ [AI Monitoring & Ethics Dashboard](https://github.com/diegoscodes/ai-ethics-dashboard)  
+  Python | Streamlit | Fairlearn | SHAP | Responsible AI | Bias Mitigation | Explainability
+
 - 🧭 [Luxury Wheels - Fleet Management System](https://github.com/diegoscodes/luxury-wheels)  
   Python | Flask | SQLite | CRUD | Alerts
 
