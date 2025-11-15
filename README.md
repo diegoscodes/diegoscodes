@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/diegoscodes/diegoscodes/raw/main/banner_git.jpg" width="100%" />
+  <img src="https://github.com/diegoscodes/diegoscodes/raw/main/banner_git.jpg" width="70%" />
 </p>
 
 
