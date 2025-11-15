@@ -6,9 +6,6 @@
 
 
 
-
-<h3 align="center">Machine Learning Engineer & Software Developer</h3>
-
 <p align="center">
 Specialized in Python, Machine Learning, Explainability (SHAP), API development, and end-to-end AI systems.  
 Experienced in building scalable ML pipelines, fraud detection models, and modern data solutions.
