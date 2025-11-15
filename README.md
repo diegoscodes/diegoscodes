@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111,100:333&height=200&section=header&text=Diego%20Santos&fontSize=40&fontColor=fff" />
 
-<h2 align="center">Hi, I'm Diego Santos 👋</h2>
-
-<p align="center">
-  Software Engineer | Passionate about Data, Machine Learning, and Artificial Intelligence — focused on building intelligent systems, automation tools, and data-driven solutions that create real-world impact.
-</p>
 
 
 <h1 align="center">Diego Santos</h1>
