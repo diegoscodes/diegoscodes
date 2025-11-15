@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111,100:333&height=200&section=header&text=Diego%20Santos&fontSize=40&fontColor=fff" />
+<p align="center">
+  <img src="https://github.com/diegoscodes/diegoscodes/raw/main/banner_git.jpg" width="100%" />
+</p>
+
 
 
 
