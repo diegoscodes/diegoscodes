@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Diego Santos</h1>
+
 
 <h3 align="center">Machine Learning Engineer & Software Developer</h3>
 
