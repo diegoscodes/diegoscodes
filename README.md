@@ -23,15 +23,21 @@ Experienced in building scalable ML pipelines, fraud detection models, and moder
 
 ## 🚀 What I Do
 
-Python Development: Building efficient, scalable, and clean code solutions.
+**⚙️ Python & Software Engineering**  
+I develop clean, scalable, and production-focused Python solutions following best engineering practices.
 
-Backend Applications: Designing RESTful APIs and server-side systems.
+**🧩 Backend Architecture & APIs**  
+Designing modular backends, REST services, and secure API ecosystems that integrate seamlessly across systems.
 
-Data Analysis: Turning raw data into actionable insights and visual reports.
+**📊 Data Intelligence & Analytics**  
+Transforming raw, fragmented data into structured information, analytical models, and high-value insights.
 
-Automations & API Integrations: Streamlining workflows through smart automation.
+**🤖 Automation & Smart Integrations**  
+Building intelligent automations, pipeline orchestration, and API-driven workflows to boost efficiency and reliability.
 
-Machine Learning & AI: Continuously expanding my expertise in intelligent systems and predictive modeling.
+**🧠 Machine Learning & AI Systems**  
+Developing predictive models, explainable AI components (SHAP), and end-to-end ML workflows prepared for deployment in real environments.
+
 
 ---
 
