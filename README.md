@@ -59,6 +59,9 @@ Machine Learning & AI: Continuously expanding my expertise in intelligent system
 
 ## 🏆 Featured Projects
 
+- 🛡️ [Fraud Guardian](https://github.com/diegoscodes/fraud-guardian)  
+  Python | Scikit-learn | XGBoost | SHAP | Fraud Detection | Explainability | Streamlit | FastAPI | Docker
+
 - ⚖️ [AI Monitoring & Ethics Dashboard](https://github.com/diegoscodes/ai-ethics-dashboard)  
   Python | Streamlit | Fairlearn | SHAP | Responsible AI | Bias Mitigation | Explainability
 
