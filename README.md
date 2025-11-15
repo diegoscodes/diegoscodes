@@ -57,26 +57,9 @@ Machine Learning & AI: Continuously expanding my expertise in intelligent system
 
 ---
 
+
+
 ## 🚀 Featured Projects
-
-- 🛡️ **[Fraud Guardian](https://github.com/diegoscodes/fraud-guardian)**  
-  Python · Sklearn · XGBoost · SHAP · Streamlit · FastAPI
-
-- ⚖️ **[AI Monitoring & Ethics Dashboard](https://github.com/diegoscodes/ai-ethics-dashboard)**  
-  Python · Streamlit · Fairlearn · SHAP · Responsible AI
-
-- 🧠 **[Tsunami Prediction Model](https://github.com/diegoscodes/tsunami-ml)**  
-  Python · RandomForest · SHAP · Data Science
-
-- 🚗 **[Luxury Wheels Fleet Management](https://github.com/diegoscodes/luxurywheels_fleet)**  
-  Python · Flask · SQLite · Web App
-
-- 📊 **[Junior Trader Pack (Python Tools)](https://github.com/diegoscodes/junior_trader_python_pack)**  
-  Python · TA Tools · Alerts · Position Sizing
-  
-
-
-## 🏆 Featured Projects
 
 - 🛡️ [Fraud Guardian](https://github.com/diegoscodes/fraud-guardian)  
   Python | Scikit-learn | XGBoost | SHAP | Fraud Detection | Explainability | Streamlit | FastAPI | Docker
