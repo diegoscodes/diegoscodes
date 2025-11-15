@@ -57,22 +57,23 @@ Machine Learning & AI: Continuously expanding my expertise in intelligent system
 
 ---
 
-### 🛡️ Fraud Guardian — Credit Card Fraud Detection  
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-red)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-pink)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-brightgreen)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+- 🛡️ **[Fraud Guardian](https://github.com/diegoscodes/fraud-guardian)**  
+  Python · Sklearn · XGBoost · SHAP · Streamlit · FastAPI
 
-A complete fraud detection system with:
-- EDA & preprocessing  
-- Model training (LR + XGBoost)  
-- Threshold optimization  
-- SHAP interpretability  
-- Upcoming Streamlit & FastAPI deployment  
+- ⚖️ **[AI Monitoring & Ethics Dashboard](https://github.com/diegoscodes/ai-ethics-dashboard)**  
+  Python · Streamlit · Fairlearn · SHAP · Responsible AI
+
+- 🧠 **[Tsunami Prediction Model](https://github.com/diegoscodes/tsunami-ml)**  
+  Python · RandomForest · SHAP · Data Science
+
+- 🚗 **[Luxury Wheels Fleet Management](https://github.com/diegoscodes/luxurywheels_fleet)**  
+  Python · Flask · SQLite · Web App
+
+- 📊 **[Junior Trader Pack (Python Tools)](https://github.com/diegoscodes/junior_trader_python_pack)**  
+  Python · TA Tools · Alerts · Position Sizing
+  
 
 
 ## 🏆 Featured Projects
