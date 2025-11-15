@@ -57,6 +57,24 @@ Machine Learning & AI: Continuously expanding my expertise in intelligent system
 
 ---
 
+### 🛡️ Fraud Guardian — Credit Card Fraud Detection  
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-pink)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+
+A complete fraud detection system with:
+- EDA & preprocessing  
+- Model training (LR + XGBoost)  
+- Threshold optimization  
+- SHAP interpretability  
+- Upcoming Streamlit & FastAPI deployment  
+
+
 ## 🏆 Featured Projects
 
 - 🛡️ [Fraud Guardian](https://github.com/diegoscodes/fraud-guardian)  
