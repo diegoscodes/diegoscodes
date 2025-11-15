@@ -6,6 +6,27 @@
   Software Engineer | Passionate about Data, Machine Learning, and Artificial Intelligence — focused on building intelligent systems, automation tools, and data-driven solutions that create real-world impact.
 </p>
 
+
+<h1 align="center">Diego Santos</h1>
+
+<h3 align="center">Machine Learning Engineer & Software Developer</h3>
+
+<p align="center">
+Specialized in Python, Machine Learning, Explainability (SHAP), API development, and end-to-end AI systems.  
+Experienced in building scalable ML pipelines, fraud detection models, and modern data solutions.
+</p>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange"/>
+  <img src="https://img.shields.io/badge/Gradient%20Boosting-XGBoost-green"/>
+  <img src="https://img.shields.io/badge/Explainability-SHAP-red"/>
+  <img src="https://img.shields.io/badge/API-FastAPI-brightgreen"/>
+  <img src="https://img.shields.io/badge/Dashboards-Streamlit-pink"/>
+</p>
+
+
 ---
 
 ## 🚀 What I Do
