@@ -16,7 +16,13 @@ Experienced in building scalable ML pipelines, fraud detection models, and moder
   <img src="https://img.shields.io/badge/Explainability-SHAP-red"/>
   <img src="https://img.shields.io/badge/API-FastAPI-brightgreen"/>
   <img src="https://img.shields.io/badge/Dashboards-Streamlit-pink"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Container%20Registry-Docker%20Hub-0db7ed?logo=docker&logoColor=white"/>
 </p>
+
 
 
 ---
