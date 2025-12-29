@@ -87,7 +87,6 @@ Developing predictive models, explainable AI components (SHAP), and end-to-end M
 ## 🚀 Featured Projects
 
 - 🤖 [Multi-Agent RAG System for Supplier Quotation Analysis](https://github.com/diegoscodes/multi-agent-rag-supplier-quotation)
-
   Python | FastAPI | Multi-Agent Architecture | RAG | Vector Search (ChromaDB) | Embeddings | Business Rules | Explainability | Docker
 
 - 🛡️ [Fraud Guardian](https://github.com/diegoscodes/fraud-guardian)  
