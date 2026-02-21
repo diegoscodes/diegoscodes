@@ -4,8 +4,7 @@
 
 
 <p align="center">
-Specialized in Python, Machine Learning, Explainability (SHAP), API development, and end-to-end AI systems.  
-Experienced in building scalable ML pipelines, fraud detection models, and modern data solutions.
+Specialized in Python and Generative AI systems, with focus on RAG architectures, LLM integration, and production AI pipelines. Experienced in designing scalable backend services and end-to-end intelligent systems.
 </p>
 
 ---
