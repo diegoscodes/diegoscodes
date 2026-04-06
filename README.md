@@ -95,8 +95,8 @@ This approach improves reliability, reduces hallucinations, and enables audit-re
 
 ## Featured Projects
 
-Healthcare Document Intelligence (MediRAG)
-https://github.com/diegoscodes/Healthcare-Document-Intelligence-with-GenAI
+Multi-Agent RAG System for Supplier Quotation  
+https://github.com/diegoscodes/multi-agent-rag-suplier-quotation
 - RAG + agentic workflow  
 - Planner → Retriever → Verifier loop  
 - Retry and validation mechanism  
