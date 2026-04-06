@@ -95,6 +95,14 @@ This approach improves reliability, reduces hallucinations, and enables audit-re
 
 ## Featured Projects
 
+Healthcare Document Intelligence (MediRAG)
+https://github.com/diegoscodes/Healthcare-Document-Intelligence-with-GenAI
+- RAG + agentic workflow  
+- Planner → Retriever → Verifier loop  
+- Retry and validation mechanism  
+- Evidence-based extraction  
+- Audit-ready outputs
+
 Multi-Agent RAG System for Supplier Quotation  
 https://github.com/diegoscodes/multi-agent-rag-suplier-quotation  
 - Controlled agentic workflow  
@@ -116,12 +124,7 @@ https://github.com/diegoscodes/ai-ethics-dashboard
 - Explainability layer  
 - Responsible AI system design  
 
-Healthcare Document Intelligence (MediRAG)  
-- RAG + agentic workflow  
-- Planner → Retriever → Verifier loop  
-- Retry and validation mechanism  
-- Evidence-based extraction  
-- Audit-ready outputs  
+  
 
 ---
 
