@@ -122,7 +122,15 @@ AI Monitoring & Ethics Dashboard
 https://github.com/diegoscodes/ai-ethics-dashboard  
 - Bias detection and fairness monitoring  
 - Explainability layer  
-- Responsible AI system design  
+- Responsible AI system design
+
+Luxury Wheels – Fleet Management System  
+https://github.com/diegoscodes/luxury-wheels-fleet-management  
+- Backend system for fleet and vehicle management  
+- CRUD operations for vehicles and clients  
+- Operational tracking and alert system  
+- Database-driven application (SQLite)  
+- Focus on real-world system design and data management
 
   
 
