@@ -96,7 +96,7 @@ This approach improves reliability, reduces hallucinations, and enables audit-re
 ## Featured Projects
 
 Multi-Agent RAG System for Supplier Quotation  
-https://github.com/diegoscodes/multi-agent-rag-suplier-quotation
+https://github.com/diegoscodes/Healthcare-Document-Intelligence-with-GenAI
 - RAG + agentic workflow  
 - Planner → Retriever → Verifier loop  
 - Retry and validation mechanism  
