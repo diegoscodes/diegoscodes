@@ -10,6 +10,8 @@ Python Developer focused on Generative AI systems, specializing in RAG architect
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/GenAI-RAG%20Systems-purple"/>
   <img src="https://img.shields.io/badge/Architecture-Agentic%20Workflow-black"/>
+  <img src="https://img.shields.io/badge/Orchestration-LangChain-blue"/>
+  <img src="https://img.shields.io/badge/Validation-Pydantic-green"/>
   <img src="https://img.shields.io/badge/API-FastAPI-brightgreen"/>
   <img src="https://img.shields.io/badge/Vector%20DB-Weaviate%20%7C%20Chroma-blue"/>
   <img src="https://img.shields.io/badge/Explainability-SHAP-red"/>
@@ -29,7 +31,7 @@ Backend Systems & API Design
 Development of modular services and REST APIs with strong emphasis on reliability, observability, and system integration.
 
 Generative AI & Agentic Workflows  
-Design and implementation of RAG-based systems with controlled agentic workflows, including multi-step reasoning, retrieval pipelines, and validation layers.
+Design and implementation of RAG-based systems with controlled agentic workflows, including multi-step reasoning, retrieval pipelines, orchestration layers, and validation mechanisms.
 
 Data Processing & Intelligent Pipelines  
 Transforming unstructured data into structured, actionable information using data pipelines, embeddings, and semantic search.
@@ -43,11 +45,13 @@ Building predictive models and explainable systems using SHAP, with focus on rea
 
 - RAG pipeline design (retrieval, ranking, grounding)
 - Controlled agentic workflows (planner, retriever, verifier)
+- LangChain-based orchestration and tool management
+- Structured output validation using Pydantic
 - LLM integration with structured outputs
 - Hallucination reduction strategies
 - Vector search systems (Weaviate, ChromaDB)
 - API-first architecture (FastAPI)
-- End-to-end AI system design (ingestion → processing → reasoning → output)
+- End-to-end AI system design (ingestion → processing → reasoning → validation → output)
 
 ---
 
@@ -59,7 +63,8 @@ Input → Processing → Indexing → Planning → Retrieval → Reasoning → V
 
 - Queries are reformulated to improve retrieval recall  
 - Context is retrieved using semantic search  
-- Outputs are validated against evidence  
+- Outputs are validated using structured schemas (Pydantic)  
+- Orchestration is managed through modular components (LangChain)  
 - The system retries when responses are not grounded  
 
 This approach improves reliability, reduces hallucinations, and enables audit-ready outputs.
@@ -73,6 +78,8 @@ This approach improves reliability, reduces hallucinations, and enables audit-re
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/>
@@ -91,9 +98,10 @@ This approach improves reliability, reduces hallucinations, and enables audit-re
 Multi-Agent RAG System for Supplier Quotation  
 https://github.com/diegoscodes/multi-agent-rag-suplier-quotation  
 - Controlled agentic workflow  
+- LangChain orchestration layer  
 - Semantic retrieval + ranking  
+- Structured validation with Pydantic  
 - Business rule validation  
-- End-to-end decision system  
 
 Fraud Guardian  
 https://github.com/diegoscodes/fraud-guardian  
@@ -110,9 +118,9 @@ https://github.com/diegoscodes/ai-ethics-dashboard
 
 Healthcare Document Intelligence (MediRAG)  
 - RAG + agentic workflow  
-- Document ingestion and processing  
+- Planner → Retriever → Verifier loop  
+- Retry and validation mechanism  
 - Evidence-based extraction  
-- Retry and verification loop  
 - Audit-ready outputs  
 
 ---
